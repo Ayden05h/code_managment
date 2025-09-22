@@ -13,3 +13,6 @@ E. How does this automated deployment improve reliability compared to manual dep
 1.it alows less human error, allows the code to be tested before publication, and quickens the delivery time 
 F. What would happen if you pushed code to a different branch (not main) 
 1.it wouldnt run because it only runs in the main branch.
+
+:)
+
